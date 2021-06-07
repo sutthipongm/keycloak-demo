@@ -1,5 +1,10 @@
 # keycloak-demo
 
+
+Download docker desktop </br>
+Mac > https://docs.docker.com/docker-for-mac/install/ </br>
+Window > https://docs.docker.com/docker-for-windows/install/ </br>
+
 # A deep dive into Keycloak
 
 This project contains a DIY deep dive into Keycloak.
